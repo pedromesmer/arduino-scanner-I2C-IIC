@@ -1,5 +1,3 @@
-# arduino-scanner-I2C-IIC
-
 # Scanner de endereços I2C/IIC no arduino
 
 Bem simples de usar, basta fazer o upload no seu arduino e plugar o dispositivo I2C nas portas analógicas SDA e SCL.
